@@ -6,3 +6,4 @@ def print_ll(head):
     while current.data:
         print current.data
         current = current.next
+##############
